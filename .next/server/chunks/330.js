@@ -1,0 +1,1 @@
+"use strict";exports.id=330,exports.ids=[330],exports.modules={8330:(e,s,r)=>{r.r(s),r.d(s,{Scene:()=>d,default:()=>o});var t=r(8570);let o=(0,t.createProxy)(String.raw`C:\Users\ZAY\Desktop\site\src\components\models\Wizard.jsx#default`),d=(0,t.createProxy)(String.raw`C:\Users\ZAY\Desktop\site\src\components\models\Wizard.jsx#Scene`)}};
